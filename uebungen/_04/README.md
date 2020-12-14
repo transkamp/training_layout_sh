@@ -4,7 +4,7 @@
 1. Öffnen Sie die manuelle Konfiguration Ihrer App ***"sample"*** und ergänzen Sie die Konfiguration im Abschnitt ***templates*** um den unten stehenden Codeblock:
 
 *app.json*
-```json
+```javascript
 "widgets": [
     {
     ...

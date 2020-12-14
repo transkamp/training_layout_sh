@@ -1,7 +1,12 @@
 # Layoutschulung SH
-## LAY05: Responsives Verhalten ergänzen
+## LAY06 Layout Bundle anlegen
 
-1. Öffnen Sie die manuelle Konfiguration Ihrer App ***sample*** und ergänzen Sie die Konfiguration im Abschnitt templates um den unten stehenden Codeblock:
+### Anlegen des Bundles
+1. Erstellen sie innerhalb des bundles Verzeichnis in Visual Studio Code einen Ordner mit dem Namen alternatelayout.
+
+2. Entpacken sie die Datei alternatelayout.zip aus dem Trainings Verzeichnis in den, im Schritt 1 erstellten Ordner.
+
+
 
 *app.json*
 ```javascript

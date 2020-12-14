@@ -4,7 +4,7 @@
 1. Öffnen Sie die manuelle Konfiguration Ihrer App "sample" und passen Sie die Konfiguration im Abschnitt templates wie folgt an:
 
 *app.json*
-```json
+```javascript
 
  "templates": {
             "TemplateModel": {

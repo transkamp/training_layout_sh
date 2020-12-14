@@ -1,0 +1,21 @@
+{
+    "name": "theme-sh",
+    "version": "1.0.0",
+    "title": "Theme SH",
+    "description": "This bundle provides the theme 'sh'. This theme fits best with the seasons layout template and can be used for customization.",
+    "vendor": "con terra GmbH",
+    "keywords": ["layout"],
+    "main": "",
+    "layer": "",
+    "i18n": [],
+    "startLevel": 1,
+    "bundle": true,
+    "productName": "map.apps",
+    "dependencies": {
+        "font-mapapps": "~4.9.2"
+    },
+    "CSS-Themes": [{
+            "name": "theme-sh",
+            "files": ["font-mapapps:/fonts/fonts.css", "styles/styles.css"]
+        }]
+}
