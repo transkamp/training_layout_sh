@@ -1,8 +1,8 @@
 # Layoutschulung SH
 ## LAY02: Einfügen eigener CSS Anweisungen in einer App
 
-1. Erstellen Sie im Ordner *"src\main\js\apps\sample"* eine CSS Datei mit dem Dateinamen *app.css*
-2. Ergänzen sie den folgenden Codeblock in der *app.json* hinzu. Achten sie dabei, dass er innerhalb des Objektes *"load":{...}* platziert wird.
+1. Erstellen Sie im Ordner   ***"src\main\js\apps\sample"*** eine CSS Datei mit dem Dateinamen ***app.css***
+2. Ergänzen sie den folgenden Codeblock in der ***app.json*** hinzu. Achten sie dabei, dass er innerhalb des Objektes ***"load":{...}*** platziert wird.
 
 *app.json*
 ```javascript
