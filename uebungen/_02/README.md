@@ -1,4 +1,5 @@
-# Layoutschulung SH
+# Layoutworkshop SH
+
 ## LAY02: Einfügen eigener CSS Anweisungen in einer App
 
 1. Erstellen Sie im Ordner   ***"src\main\js\apps\sample"*** eine CSS Datei mit dem Dateinamen ***app.css***

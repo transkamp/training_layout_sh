@@ -1,4 +1,5 @@
-# Layoutschulung SH
+# Layoutworkshop SH
+
 ## LAY03: Anpassen eines Fensters
 
 1. Öffnen Sie die manuelle Konfiguration Ihrer App "sample" und passen Sie die Konfiguration im Abschnitt templates wie folgt an:
@@ -66,6 +67,25 @@
                                     },
                                     "resizable": false
                                 }
+                            },
+                            {
+                                "widgetRole": "printing",
+                                "sublayout": ["tablet_landscape","tablet_portrait"],
+                                "window": {
+                                    "draggable": false,
+                                    "dndDraggable": false,
+                                    "marginBox": {
+                                        "l": 20,
+                                        "w": 300,
+                                        "t": 120,
+                                        "b": 60
+                                    }
+                                }
+                            },
+                            {
+                                "widgetRole": "coordinateviewer",
+                                "sublayout": ["tablet_landscape","tablet_portrait","mobile_landscape","mobile_portrait"],
+                                "attachTo": "map_bottomleft"
                             },
                             {
                                 "widgetRole": "banner",

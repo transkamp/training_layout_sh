@@ -1,6 +1,6 @@
-# theme-autumn
+# theme-sh
 
-![theme-autumn preview](./images/theme_autumn_preview.png)
+![theme-sh preview](./images/theme_autumn_preview.png)
  
 Provides a color scheme for map.apps and its dijit widgets.
  

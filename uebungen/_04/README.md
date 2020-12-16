@@ -1,7 +1,44 @@
-# Layoutschulung SH
+# Layoutworkshop SH
+
 ## LAY04: Widget innerhalb der Anwendung umpositionieren
 
-1. Öffnen Sie die manuelle Konfiguration Ihrer App ***"sample"*** und ergänzen Sie die Konfiguration im Abschnitt ***templates*** um den unten stehenden Codeblock:
+1. Öffnen Sie die manuelle Konfiguration Ihrer App **sample** und fügen Sie das Bundle **coordinateviewer** im Abschnitt **allowedBundles** hinzu.
+
+*app.json*
+```javascript
+  "allowedBundles": [
+            "system",
+            "console",
+            "notifier",
+            "splashscreen",
+            "templatelayout",         
+            "map-init",
+            "map-preload-2D",
+            "map-preload-3D",
+            "toolset",
+            "banner",
+            "basemaptoggler",
+            "viewmodeswitcher",
+            "mapnavigation",
+            "popups-default",
+            "scalebar",
+            "locateme",
+            "printing",
+            "share-link",
+            "omnisearch",
+            "locator-store",
+            "toc",
+            "console",
+            "basemapchanger",
+            "template-seasons",          
+            "theme-sh",  
+            "coordinateviewer"
+        ],
+```
+
+
+
+2. Ergänzen Sie die Konfiguration im Abschnitt ***templates*** um den unten stehenden Codeblock:
 
 *app.json*
 ```javascript
