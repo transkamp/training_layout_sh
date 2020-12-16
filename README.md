@@ -11,4 +11,4 @@
 - [LAY06 Layout Bundle anlegen](/uebungen/_06/README.md)
 - [LAY07: CSS Anweisung innerhalb des Layout Bundles](/uebungen/_07/README.md)
 - [LAY08 Eigenes Theme anlegen](/uebungen/_08/README.md)
-- [## LAY09 Anpassen von Farbwerten in den Theme-Settings](/uebungen/_09/README.md)
+- [LAY09 Anpassen von Farbwerten in den Theme-Settings](/uebungen/_09/README.md)
